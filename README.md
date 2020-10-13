@@ -1,5 +1,6 @@
 
 English:
+-------------------------------
 
 #### Login System with Firebase Authentication
 
@@ -12,10 +13,11 @@ English:
 - Sistema criado para ser utilizado em um sistema maior futuramente para cadastro de clientes! 
 - Obs: System created to be used in a bigger web software in the future for client management!
 
-
+-------------------------------
 
 
 Português
+-------------------------------
 
 #### Sistema de Login com Firebase Auth
 
